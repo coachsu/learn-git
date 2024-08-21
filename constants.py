@@ -9,7 +9,7 @@ class Model(Enum):
     """
     X100 = 0
     X200 = 1
-    X200 = 2
+    X210 = 2
     X300 = 3
 
 class Interface(Enum):
